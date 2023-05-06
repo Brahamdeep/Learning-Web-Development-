@@ -1,0 +1,47 @@
+div{
+    background: purple;
+    color: white;
+}
+
+#quote {
+
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #74e800;
+
+}
+
+.movie {
+    color: white;
+    background: steelblue;
+}
+
+span#author {
+
+    text-transform: uppercase;
+}
+
+#skills ol li {
+
+    color:  purple;
+    background: white;
+}
+
+#skills ul li {
+
+    color:  blue;
+
+}
+
+h3 + p {
+
+    background: black;
+    color: white;
+}
+
+p[class] {
+    background: gray;
+}
+
+p[id] {
+    background: gray;
+}
