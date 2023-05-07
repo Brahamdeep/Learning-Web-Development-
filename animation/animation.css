@@ -1,0 +1,20 @@
+#div1{
+    width: 100px;
+    height: 100px;
+    background-color: crimson;
+    border: 3px solid rebeccapurple;
+    position: relative;
+    animation-name: anime;
+    animation-duration: 4s;
+    animation-delay: 2s;
+    animation-iteration-count: 100;
+}
+
+@keyframes anime{
+    0%{background-color: crimson; left: 0px; top: 0px;}
+    25%{background-color: darkcyan; left: 300px; top: 0px;}
+    50%{background-color: orangered; left: 300px; top: 300px;}
+    75%{background-color: chartreuse; left: 0px; top: 300px;}
+    100%{background-color: crimson; left: 0px; top: 0px;}
+
+}
