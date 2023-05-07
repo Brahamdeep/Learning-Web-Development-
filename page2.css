@@ -1,0 +1,62 @@
+#lorem{
+    background-color: bisque;
+    color: chocolate;
+
+
+    border: 3px dotted orangered;
+    padding: 13px 13px 13px 13px;
+    margin: 10px 20px;
+
+
+}
+
+#normal{
+    font-style: normal;
+}
+
+#italic{
+    font-style: italic;
+
+}
+
+#smallcap{
+    font-variant: small-caps;
+}
+
+#Wnormal{
+    font-weight: normal;
+}
+
+#Wbolder{
+    font-weight: bolder;
+}
+
+#Wbold{
+    font-weight: bold;
+}
+
+#xxlarge{
+    font-size: xx-large;
+}
+
+#large{
+    font-size: large;
+}
+
+#medium{
+    font-size: medium;
+}
+
+#small{
+    font-size: small;
+}
+
+
+#xxsmall{
+    font-size: 25pt;
+}
+
+
+#linenormal{
+    line-height: 25em;
+}
