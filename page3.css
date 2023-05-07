@@ -1,0 +1,44 @@
+#container{
+    background: #de2f2f;
+    border: 2px solid blue;
+    border-radius: 8px;
+}
+#centered{
+    text-align: center;
+}
+
+/*#top-right{
+    background: #2f2f2f;
+    border: 1px solid orange;
+    position: absolute;
+    width: 200px;
+    height: 200px;
+}
+
+#bottom-left{
+    background: white;
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+    color: black;
+}*/
+
+/*#fixed-position{
+    position: fixed;
+    background: black;
+    color: lemonchiffon;
+}*/
+
+#relative-1{
+    background: red;
+    border: 1px solid black;
+    height: 100px;
+}
+
+#relative-2{
+    position: relative;
+    left: 20px;
+    top: 30px;
+    background-image: yellow;
+    border: 1px solid blue;
+}
