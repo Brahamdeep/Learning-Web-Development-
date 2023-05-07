@@ -1,0 +1,10 @@
+ol{
+    width: 50px;
+    padding: 10px;
+    margin: 100px auto;
+    background: maroon;
+    color: lime;
+
+    max-height: 200px;
+    overflow: scroll;
+}
